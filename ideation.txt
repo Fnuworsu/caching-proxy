@@ -1,0 +1,4 @@
+- learning about caching proxies
+- implementaion the base version with googel being my main server and my caching- proxy as the proxy server
+- i'm gonna use huffman encoding to encode incoming simple get request urls
+- using meta's rocksdb as my highly available k/v store
