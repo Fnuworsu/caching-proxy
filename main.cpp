@@ -27,7 +27,7 @@ int main () {
     string url;
     cout << "Enter port number: " << "\n";
     cin >> port_number;
-    cout << "Enter port number: " << "\n";
+    cout << "Enter port url: " << "\n";
     cin >> url;
 
     server(port_number, url);
